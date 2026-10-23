@@ -12,7 +12,7 @@ This code extends the previous CRUD project, retaining `skills.php`, `skill_crea
 5. Upload files to a dedicated folder on web server (for Angsila, follow instructor's permitted deployment path).
 6. Open `register.php`, sign up with a unique email and password >= 10 characters.
 ## Student Info
-- Name: ชื่อ-นามสกุลของคุณ
+- Name: วชิรวิชญ์ ชลมารค
 - Student ID: 68160211
 - GitHub: https://github.com/68160211-mawin/DB-week12
 
